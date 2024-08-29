@@ -1,1 +1,3 @@
-# coding-project-template
+Welcome to my Final Project for the “Building Back-End Applications with Node and Express.js” module of the IBM Full Stack JavaScript Engineer course. In this project, I have developed a server-side online book review application integrated with a secure REST API server using JWT (JSON Web Token) for session-level authentication. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on book reviews, with endpoints tested using Promises callbacks or Async-Await functions.
+
+This project is the culmination of my learning in the “Building Back-End Applications with Node and Express.js” module. The Book Review Application is a full-stack web application that allows users to browse books, search for them by various criteria (such as ISBN, author, or title), and add reviews. The backend is built with Node.js and Express.js. The application also includes secure user authentication and session management using JWT.
